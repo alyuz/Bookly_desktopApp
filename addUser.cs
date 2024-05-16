@@ -30,7 +30,7 @@ namespace AppBooklyMiniTCC
         {
             try
             {
-                objCnx.ConnectionString = "Server=localhost;Database=database;User=root;Pwd="; //Pwd = password
+                objCnx.ConnectionString = "Server="server_name";Database="database_name";User="user_name";Pwd="the_password";
                 objCnx.Open();
             }
             catch (Exception Erro)
