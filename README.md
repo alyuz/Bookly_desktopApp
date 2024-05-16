@@ -1,8 +1,9 @@
 # Bookly_desktopApp
-This is a desktop application called Bookly, it was developed in C# and is very simple. 
+This is a desktop application called Bookly, it was developed in C# and is very simple.
+In this repository you can see the code for the home screen, user login and registration pages, and administrator login pages.
 
-I'm currently developing a website in PHP that is related to this application. 
+I am currently developing a website in PHP related to this application.
 
-There are some parts of this application, such as the sign in and sign up pages, that use a database developed for the platform. This databese is also being used on the PHP website. 
+There are some parts of this application, such as the login and registration pages, that use a database developed for the platform. This database is also being used on the PHP website.
 
-The database are not in this repository.
+The database is not in this repository.
